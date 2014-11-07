@@ -15,8 +15,8 @@ import (
 	"strings"
 	"testing"
 
-	"code.google.com/p/leveldb-go/leveldb/db"
-	"code.google.com/p/leveldb-go/leveldb/memfs"
+	"github.com/scalingdata/leveldb-go/leveldb/db"
+	"github.com/scalingdata/leveldb-go/leveldb/memfs"
 )
 
 var wordCount = map[string]string{}

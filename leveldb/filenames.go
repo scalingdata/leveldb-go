@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"code.google.com/p/leveldb-go/leveldb/db"
+	"github.com/scalingdata/leveldb-go/leveldb/db"
 )
 
 type fileType int

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sort"
 
-	"code.google.com/p/leveldb-go/leveldb/db"
+	"github.com/scalingdata/leveldb-go/leveldb/db"
 )
 
 // fileMetadata holds the metadata for an on-disk table.

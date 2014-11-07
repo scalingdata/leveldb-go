@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"code.google.com/p/leveldb-go/leveldb/db"
+	"github.com/scalingdata/leveldb-go/leveldb/db"
 )
 
 func normalize(name string) string {

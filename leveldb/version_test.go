@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"code.google.com/p/leveldb-go/leveldb/db"
-	"code.google.com/p/leveldb-go/leveldb/memdb"
+	"github.com/scalingdata/leveldb-go/leveldb/db"
+	"github.com/scalingdata/leveldb-go/leveldb/memdb"
 )
 
 func TestIkeyRange(t *testing.T) {
